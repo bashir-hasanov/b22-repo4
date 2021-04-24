@@ -1,0 +1,3 @@
+I just created an empty remote repository from GitHub.com account by clicking on plus button on right top of the page 
+
+And cloned this repository by clicking on Setup on Desktop and clone the repository
